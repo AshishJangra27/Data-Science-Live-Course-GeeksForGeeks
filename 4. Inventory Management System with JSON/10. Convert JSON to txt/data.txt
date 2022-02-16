@@ -1,0 +1,6 @@
+Product ID,Price,Name,Quantity
+1005,650,Blueberry Cake,3
+1004,550,Chocolate Cake,6
+1003,2,Candy,500
+1002,20,Bar-One,0
+1001,10,5 Star,188
